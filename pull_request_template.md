@@ -27,14 +27,10 @@
 - [ ]  I have reviewed my own code to ensure its quality and readability.
 - [ ]  I have checked for any potential merge conflicts.
 - [ ]  I understand and have complied with the project's licensing requirements.
-- [ ]  Intellij’s F2 shows no errors or warnings
+- [ ]  Compiler and/or linter shows no additional errors or warnings
 - [ ]  This PR is okay for others to merge
 - [ ]  This PR has a testing plan defined with success states and error states defined
 - [ ]  This PR has rollback instructions
-
-## Requested Reviewers
-
-[@username1, @username2, ...]
 
 ## Additional Notes
 
